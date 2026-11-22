@@ -20,24 +20,29 @@ I enjoy taking projects from scratch and turning ideas and requirements into pra
 
 ## Things I have built:
 
+- **Cricket Arena**
+  - Website: https://cricket-arena-wheat.vercel.app/
+  - STACK: HTML/CSS, Tailwind CSS , Next.js , PotgreSql 
+  - A complete cricket website developed from scratch using Next.js, including backend functionality, an admin panel, CMS, and PostgreSQL database.
+
 - **Lion & Lotus**
   - Website: https://lion-lotus.co/
+  - STACK: HTML/CSS,Tailwind,Reactjs
   - A complete frontend website for a dry fruit wholesale business. I handled the UI/UX design and frontend development from scratch.
 
 - **Let's Rentz**
   - Website: https://www.letsrentz.com/
-  - Converted client-provided UI/UX designs into a responsive website using HTML, CSS, and vanilla JavaScript, without using any frontend framework.
+  - STACK: HTML5,CSS3,Js,Bootstrap CSS
+  - Converted client-provided UI/UX designs into a responsive website.This is a complete rental website.
 
 - **TyreLane**
   - Website: https://tyrelane.com.au/
+  - STACK: LARAVEL , REACT , MONGODB 
   - Worked on enhancing an existing e-commerce platform, designing website interfaces, implementing backend functionality, designing database schemas, and developing CMS/admin panel features for business owners.
-
-- **Cricket Arena**
-  - Website: https://cricket-arena-wheat.vercel.app/
-  - A complete cricket website developed from scratch using Next.js, including backend functionality, an admin panel, CMS, and PostgreSQL database.
 
 - **HAIZON Innovations**
   - Website: https://sardarzainu-lgtm.github.io/Haizon-Innovations/
+  - STACK: HTML ,CSS ,Typescript
   - My portfolio company's website used for my freelance work, developed from scratch with a focus on presenting our AI solutions, web development services, and software capabilities.
 
 - **School Fee ERP:** Developed a detailed school fee management system covering students, classes, fee structures, challans, payments, concessions, expenses, and reports. Built using TypeScript, React, Node.js, and PostgreSQL, then converted into an offline Electron desktop application.
