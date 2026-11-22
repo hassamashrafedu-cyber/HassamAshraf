@@ -8,7 +8,7 @@ I enjoy taking projects from scratch and turning ideas and requirements into pra
 
 ## What I work with
 
-- **Frontend:** React, Next.js, HTML, CSS, JavaScript, Responsive Web Design
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript/Typescript, Responsive Web Design
 - **Backend:** Node.js, Express.js, Python, REST APIs
 - **Databases:** PostgreSQL, MongoDB, Supabase
 - **Desktop Applications:** Electron, Offline Applications
@@ -40,7 +40,7 @@ I enjoy taking projects from scratch and turning ideas and requirements into pra
   - Website: https://sardarzainu-lgtm.github.io/Haizon-Innovations/
   - My portfolio company's website used for my freelance work, developed from scratch with a focus on presenting our AI solutions, web development services, and software capabilities.
 
-- **School Fee ERP:** Developed a detailed school fee management system covering students, classes, fee structures, challans, payments, concessions, expenses, and reports. Built using React, Node.js, and PostgreSQL, then converted into an offline Electron desktop application.
+- **School Fee ERP:** Developed a detailed school fee management system covering students, classes, fee structures, challans, payments, concessions, expenses, and reports. Built using TypeScript, React, Node.js, and PostgreSQL, then converted into an offline Electron desktop application.
 
 - **Restaurant POS:** Developed an offline restaurant management and POS application with menu management, orders, billing, and other restaurant operations. Built using web technologies and packaged as an Electron desktop application.
 
@@ -60,4 +60,3 @@ I am also interested in computer vision, deep learning, and practical AI applica
 
 - **Email:** hassam.ashraf.edu@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hassamashraf-ai/
-- **My company portfolio website for freelance work:** https://sardarzainu-lgtm.github.io/Haizon-Innovations/
