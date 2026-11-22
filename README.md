@@ -14,9 +14,9 @@ I enjoy taking projects from scratch and turning ideas and requirements into pra
 - **Desktop Applications:** Electron, Offline Applications
 - **AI & Machine Learning:** Python, Machine Learning, Deep Learning, Computer Vision, RAG, LLMs, API Integration
 - **UI/UX:** Interface Design, Responsive Layouts, User Experience
-- **Tools & Platforms:** Git, GitHub, Vercel, Cursor
+- **Tools & Platforms:** Git, GitHub, Vercel, Cursor , Google Colab , Claude
 
-**Daily tools:** I use Cursor with different AI models (Claude, Grok, and Auto mode) for development, along with Claude and ChatGPT for planning, problem-solving, debugging, and improving code quality.
+**Daily tools:** I use Cursor with different API (Claude, Grok, and Auto mode) for development, along with Claude and ChatGPT for planning, problem-solving, debugging, and improving code quality.
 
 ## Things I have built:
 
